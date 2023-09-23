@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@/*":["./components/*"],
+            "@/modules/*":["./modules/*"],
+            "@/assets/*":["./assets/*"],
+            "@/settings/*":["./settings/*"],
+            "react":["./node_modules/@types/react"],
+        }
+    }
+}
